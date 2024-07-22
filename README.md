@@ -21,7 +21,7 @@
 
 ## 📈 GitHub Stats
 
-Most active gitHub user in India:
+Most active github user in India:
 
 [![committers.top badge](https://user-badge.committers.top/india/sabeerbikba.svg)](https://user-badge.committers.top/india/sabeerbikba)
 
