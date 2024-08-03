@@ -24,6 +24,7 @@
 Most active github user in India:
 
 [![committers.top badge](https://user-badge.committers.top/india/sabeerbikba.svg)](https://user-badge.committers.top/india/sabeerbikba)
+[![committers.top badge](https://user-badge.committers.top/india_public/sabeerbikba.svg)](https://user-badge.committers.top/india_public/sabeerbikba)
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sabeerbikba&show_icons=true&theme=radical" />
