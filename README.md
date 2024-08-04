@@ -7,8 +7,8 @@
 ### A few things about me
 
 - 💻 I'm self taught web developer, from Karnataka India 📍
-- 🕸️ I am love to building websites with Next.js
-- 🤝 I like to meet new people simmilar to me 
+- 🕸️ I love to building website with Next.js
+- 🤝 I like to meet people simmilar to me 
 - 🏏 I like to play and watch Cricket in free time
 - 🤓 I always excited about learning new web technologies 
 
