@@ -23,7 +23,10 @@
 
 Most active github user in India:
 
+<!--
 [![committers.top badge](https://user-badge.committers.top/india/sabeerbikba.svg)](https://user-badge.committers.top/india/sabeerbikba)
+-->
+
 [![committers.top badge](https://user-badge.committers.top/india_public/sabeerbikba.svg)](https://user-badge.committers.top/india_public/sabeerbikba)
 
 <p align="center">
