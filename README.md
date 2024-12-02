@@ -15,8 +15,7 @@
 ## 📰 My Favourite Projects
 
 - [Dev.tools](https://github.com/sabeerbikba/dev.tools)
-- [Next.js](https://github.com/vercel/next.js)
-- [Dexie.js](https://github.com/dexie/Dexie.js)
+- [Nuxt](https://github.com/nuxt/nuxt)
 
 
 ## 📈 GitHub Stats
